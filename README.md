@@ -1,4 +1,5 @@
 Aplikasi Kompas GPS Penentu Kiblat adalah proyek sumber terbuka yang dirancang untuk membantu pengguna menemukan arah kiblat dengan menggunakan teknologi GPS dan sensor kompas pada perangkat seluler. Aplikasi ini sangat berguna bagi umat Muslim yang ingin menentukan arah kiblat saat menjalankan ibadah, terutama saat berada di lokasi yang tidak familiar. Kompas merupakan alat navigasi untuk menentukan arahberupa sebuah panah/penunjuk magnetis yang bebas menyelaraskan dirinya dengan medan magnet bumi secara akurat
+
 Fungsi aplikasi : 
 1. Membantu Navigasi: Fungsi utama kompas adalah membantu pengguna 
 menentukan arah utara geografis. Ini sangat berguna dalam navigasi dan 
@@ -15,6 +16,7 @@ dan pengaturan aplikasi kompas sesuai dengan preferensi mereka, seperti
 pemilihan tampilan kompas, unit pengukuran, dan warna. 
 5. Petunjuk Arah Kiblat: Aplikasi ini akan membantu umat Islam dalam 
 menentukan arah Kiblat.
+
 Nama kelompok :
 Ryan Prasetyo 22050974094,
 Dewangga Alun Kalokajaya 22050974099,

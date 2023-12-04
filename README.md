@@ -16,9 +16,11 @@ pemilihan tampilan kompas, unit pengukuran, dan warna.
 5. Petunjuk Arah Kiblat: Aplikasi ini akan membantu umat Islam dalam 
 menentukan arah Kiblat.
 Nama kelompok :
-Ryan Prasetyo 22050974094
-Dewangga Alun Kalokajaya 22050974099
-Afif Amarranda Saragih 22050974112
+Ryan Prasetyo 22050974094,
+Dewangga Alun Kalokajaya 22050974099,
+Afif Amarranda Saragih 22050974112,
 Rahmadanix Cinta Endynda 22050974119
+
 Url Web Prodi : https://pendidikan-ti.ft.unesa.ac.id/
-Oleh Kelompok PTI C 2022 Universitas Negeri Surabaya
+
+Oleh Kelompok 1 PTI C 2022 Universitas Negeri Surabaya
